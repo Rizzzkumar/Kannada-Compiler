@@ -6,13 +6,9 @@ Architecture Flow: Source Code(Kannada) → Lexical Analyzer → Syntax Analyzer
 Main Algorithms and Routines:
 
 Tokenization Algorithm: DFA-based pattern matcher for Kannada.
-
 Parser Functions: Recursive routines to match production rules.
-
 Semantic Checker: Ensures type safety, scope resolution.
-
 IR Generator: Outputs structured intermediate code in a neutral syntax.
-
 Emphasis: All algorithms are language-neutral, but adapted for Kannada inputs.
 
 Data structures used: Symbol Tables, Token table, AST, TAC
