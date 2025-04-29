@@ -1,0 +1,16 @@
+poorna n = 3;
+poorna m1;
+poorna m2;
+poorna m3;
+poorna m4;
+poorna m5;
+m1 = n * 1;
+helu m1;
+m2 = n * 2;
+helu m2;
+m3 = n * 3;
+helu m3;
+m4 = n * 4;
+helu m4;
+m5 = n * 5;
+helu m5;
