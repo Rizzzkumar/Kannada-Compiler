@@ -15,5 +15,6 @@ IR Generator: Outputs structured intermediate code in a neutral syntax.
 
 Emphasis: All algorithms are language-neutral, but adapted for Kannada inputs.
 
-
 Data structures used: Symbol Tables, Token table, AST, TAC
+
+save input file while running as .knd extention
